@@ -4,3 +4,6 @@
 ###
 ### CREATOR / KosMos
 ### HTML / BROWSER
+# INSTRUCTIONS!!!
+### 1. Download Game.HTML Raw code
+### 2. Save as Game.HTML
